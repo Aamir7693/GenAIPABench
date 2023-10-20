@@ -16,7 +16,7 @@ Annotated Answers:
 A folder containing annotated answers to the provided questions for 5 privacy policies(Twitter, Facebook, Airbnb, Uber, Spotify).
 Privacy Documents:
 
-A folder containing various privacy-related documents to 5 privacy policied (Twitter, Facebook, Airbnb, Uber, Spotify).
+A folder containing various privacy-related documents to 5 privacy policies (Twitter, Facebook, Airbnb, Uber, Spotify).
 Usage
 To use any of the provided Excel files or access the documents in the folders, simply clone the repository and navigate to the desired file/folder.
 
