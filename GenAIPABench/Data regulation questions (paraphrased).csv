@@ -1,13 +1,13 @@
-﻿id_question,question
-PR1,Who needs to follow the GDPR?
-PR2,What are the penalties for GDPR violations?
-PR3,How can I meet GDPR requirements?
-PR4,Is encryption mandatory for GDPR?
-PR5,What data is considered personal or sensitive in GDPR?
-PR6,What are my rights under GDPR?
-PR7,Who is bound by the CCPA?
-PR8,What are the costs for not following CCPA?
-PR9,How can I adhere to the CCPA?
-PR10,Is encryption needed for CCPA?
-PR11,What data is viewed as personal or sensitive in CCPA?
-PR12,What rights are given by the CCPA?
+﻿id_question,question_set_1,question_set_2,question_set_3
+PR1,Who needs to follow the GDPR?,Who should listen to GDPR rules?,Who should be concerned about GDPR?
+PR2,What are the penalties for GDPR violations?,What happens if you break GDPR rules?,What's the consequence of not following GDPR?
+PR3,How can I meet GDPR requirements?,How can I do what GDPR asks?,How do I make sure I'm doing GDPR right?
+PR4,Is encryption mandatory for GDPR?,Do I have to hide data using special codes for GDPR?,Is coding data a must for GDPR?
+PR5,What data is considered personal or sensitive in GDPR?,What kind of information is private or touchy under GDPR?,What info does GDPR see as private or special?
+PR6,What are my rights under GDPR?,What can I ask for or expect under GDPR?,What can I claim or expect because of GDPR?
+PR7,Who is bound by the CCPA?,Who should pay attention to CCPA rules?,Who needs to pay attention to CCPA guidelines?
+PR8,What are the costs for not following CCPA?,What's the price of ignoring CCPA rules?,What happens if I overlook CCPA rules?
+PR9,How can I adhere to the CCPA?,How can I follow CCPA instructions?,How do I stick to CCPA's rules?
+PR10,Is encryption needed for CCPA?,Do I have to use codes to hide information for CCPA?,Is it required to scramble data for CCPA?
+PR11,What data is viewed as personal or sensitive in CCPA?,Which details are considered private or special in CCPA?,What information is private or unique according to CCPA?
+PR12,What rights are given by the CCPA?,What can I get or ask for because of CCPA?,What privileges do I have under CCPA?
