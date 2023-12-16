@@ -18,5 +18,7 @@ Privacy Documents:
 
 A folder containing various privacy-related documents to 5 privacy policies (Twitter, Facebook, Airbnb, Uber, Spotify).
 Usage
+Results:
+A folder containing various results from the various experiments.
 To use any of the provided Excel files or access the documents in the folders, simply clone the repository and navigate to the desired file/folder.
 
